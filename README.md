@@ -17,7 +17,7 @@ Input is an array of two sets, please seperate with spaces I will group them mys
 
 Question 2
 
-Input is the file path for the english word dictionary and the number to match against
+Input is the file path for the english word dictionary and the number to match against . 
 0 -> A, B or C
 1 -> D, E or F
 5 -> Q, R, S, T
