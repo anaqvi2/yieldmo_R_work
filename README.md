@@ -24,7 +24,7 @@ Input is the file path for the english word dictionary and the number to match a
 
 1 -> D, E or F
 
-5 -> Q, R, S, T
+5 -> Q, R, S or T
 
     $ Rscript yieldmo_q2.R yieldmo_sample_words.csv 015
      [1] "adroit"               "adroitly"             "best"
